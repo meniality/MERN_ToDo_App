@@ -1,0 +1,11 @@
+{
+  "name": "merntodoapp",
+  "version": "1.0.0",
+  "description": "Self made todo app to hammer home MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Hoehn",
+  "license": "MIT"
+}
